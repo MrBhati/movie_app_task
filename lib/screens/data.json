@@ -1,0 +1,67 @@
+{
+    "user_watchlists": {
+      "watchlist_id_1": [
+        {
+          "name": "Bamhashtra",
+          "id": "27263478642378",
+          "img_url": ""
+        },
+        {
+          "name": "Sholay ",
+          "id": "27263478642318",
+          "img_url": ""
+        },
+        {
+          "name": "Yamla Pagla Diwana",
+          "id": "27263478642318",
+          "img_url": ""
+        }
+      ],
+      "watchlist_id_2": [
+        {
+          "name": "Bamhashtra",
+          "id": "27263478642378",
+          "img_url": ""
+        },
+        {
+          "name": "Sholay ",
+          "id": "27263478642318",
+          "img_url": ""
+        },
+        {
+          "name": "Yamla Pagla Diwana",
+          "id": "27263478642318",
+          "img_url": ""
+        }
+      ],
+      "watchlist_id_3": [
+        {
+          "name": "Bamhashtra",
+          "id": "27263478642378",
+          "img_url": ""
+        },
+        {
+          "name": "Sholay ",
+          "id": "27263478642318",
+          "img_url": ""
+        },
+        {
+          "name": "Yamla Pagla Diwana",
+          "id": "27263478642318",
+          "img_url": ""
+        }
+      ]
+    },
+    "user": {
+      "user_id": {
+        "name": "Suraj Lad",
+        "email": "surajlad27@gmail.com",
+        "watchlists": [
+          "watchlist_id_1",
+          "watchlist_id_2"
+        ],
+        "watchlist_id": "watchlist_id_1",
+        "isWatchlistPublic": false
+      }
+    }
+  }
